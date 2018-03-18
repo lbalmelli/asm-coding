@@ -1,0 +1,10 @@
+# ignore bindir
+bin/
+
+# ignore .o files and .s files
+*.o
+*.s
+
+# ignore notes files
+*.notes
+
